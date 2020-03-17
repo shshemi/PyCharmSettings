@@ -1,0 +1,30 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>

@@ -2,6 +2,33 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>V start left</entry>
+        <entry>S start top</entry>
+        <entry>V start right</entry>
+        <entry>O counter-clockwise</entry>
+        <entry>O clockwise</entry>
+        <entry>get_config</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/V start left/V/g</entry>
+        <entry>%s/V start left/V/g</entry>
+        <entry>%s/S start top/S/g</entry>
+        <entry>%s/V start right/V/g</entry>
+        <entry>%s/O counter-clockwise/O/g</entry>
+        <entry>%s/O clockwise/O/g</entry>
+        <entry>qa</entry>
+        <entry>2w</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -47,6 +74,192 @@
         <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/HDFSNegativeSampling/classification.py" timestamp="1585140589555">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587929646978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1587928754339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1584108163572">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/HDFSNegativeSampling/main.py" timestamp="1585142107045">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/__init__.py" timestamp="1587928223952">
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="1" column="69" />
+        <mark key="^" line="1" column="69" />
+        <mark key="." line="1" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/NeuralLevenshtein/words_m2.py" timestamp="1587112848958">
+        <mark key="[" line="120" column="24" />
+        <mark key="]" line="120" column="26" />
+        <mark key="." line="120" column="26" />
+        <mark key="^" line="120" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/procedures.py" timestamp="1587929429833">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="141" column="29" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/word_based.py" timestamp="1584099718699">
+        <mark key="'" line="47" column="69" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="47" column="51" />
+      </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow_core/python/keras/layers/core.py" timestamp="1587928302021">
+        <mark key="'" line="1062" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/HDFSNegativeSampling/cnn.py" timestamp="1584619275281">
+        <mark key="[" line="47" column="91" />
+        <mark key="]" line="47" column="94" />
+        <mark key="." line="47" column="94" />
+        <mark key="^" line="47" column="94" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/utils/defaults.py" timestamp="1584105976231">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HDFSNegativeSampling/out/parser.py" timestamp="1584333457023">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HDFSNegativeSampling/main.py" timestamp="1584337661109">
+        <mark key="[" line="95" column="36" />
+        <mark key="]" line="95" column="38" />
+        <mark key="^" line="95" column="38" />
+        <mark key="." line="95" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/character_based.py" timestamp="1584099506038">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/hyper_models.py" timestamp="1587923336445">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="65" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="46" column="117" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/utils/typing.py" timestamp="1584099307730">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/models.py" timestamp="1587927413462">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/hyper_model_tuners.py" timestamp="1584109272876">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="23" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/PersianSpamDetector/nn/cutsom_layers.py" timestamp="1587929382903">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="28" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="19" filename="$USER_HOME$/Development/PersianSpamDetector/utils/procedure.py" />
+      <jump line="16" column="67" filename="$USER_HOME$/Development/PersianSpamDetector/main.py" />
+      <jump line="11" column="42" filename="$USER_HOME$/Development/PersianSpamDetector/main.py" />
+      <jump line="9" column="27" filename="$USER_HOME$/Development/PersianSpamDetector/utils/defaults.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/SensoryMotionDetection/data/1582572391471.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SensoryMotionDetection/data/1582572233807.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/SensoryMotionDetection/data/1582572562927.csv" />
+      <jump line="110" column="151" filename="$USER_HOME$/Development/SensoryMotionDetection/data/1582572081387.csv" />
+      <jump line="168" column="152" filename="$USER_HOME$/Development/SensoryMotionDetection/data/1582571925293.csv" />
+      <jump line="47" column="69" filename="$USER_HOME$/Development/PersianSpamDetector/nn/word_based.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/Development/HDFSNegativeSampling/classification.py" />
+      <jump line="1062" column="6" filename="$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow_core/python/keras/layers/core.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text>add evaluation on train set as well as test to make it easier to compare</text>
+      </register>
+      <register name="-" type="4">
+        <text>base_config</text>
+      </register>
+      <register name="/" type="4">
+        <text>get_config</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0X2V2YWx1YXRpb25fcmVzdWx0cyA9IG1vZGVsLmV2YWx1YXRlKCpkYXRhc2V0LnRlc3Rfc2FtcGxlcywgYmF0Y2hfc2l6ZT1hcmdzLmJhdGNoX3NpemUpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text>add evaluation on train set as well as test to make it easier to compare</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5zYXZlKCJtb2RlbC5oZGY1IikKICAgICAgICBpbXBvcnQgbm4KICAgICAgICBtID0gbm4ubG9hZF9tb2RlbCgibW9kZWwuaGRmNSIpCiAgICAgICAgbS5ldmFsdWF0ZSgqZGF0YXNldC50cmFpbl9zYW1wbGVzLCBiYXRjaF9zaXplPWFyZ3MuYmF0Y2hfc2l6ZSkKICAgICAgICBtLmV2YWx1YXRlKCpkYXRhc2V0LnRlc3Rfc2FtcGxlcywgYmF0Y2hfc2l6ZT1hcmdzLmJhdGNoX3NpemUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlX2NvbmZpZyA9IAo=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">dHJhaW5fZXZhbHVhdGlvbl9yZXN1bHRzID0KdGVzdF9ldmFsdWF0aW9uX3Jlc3VsdHMgPSA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBubgogICAgbSA9IG5uLmxvYWRfbW9kZWwoIm1vZGVsLmhkZjUiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFnZ3JlZ2F0aW9uIjogc2VsZi5hZ2dyZWdhdGlvbiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImNvbnZfY29uZmlnIjogc2VsZi5jb252LmdldF9jb25maWcoKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text>add aggregational convolutional model</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHkgPSB0Zi5rZXJhcy5sYXllcnMuRGVuc2UoNjQsIGFjdGl2YXRpb249InJlbHUiKSh5KQogICAgICAgICMgeSA9IHRmLmtlcmFzLmxheWVycy5Ecm9wb3V0KDAuNSkoeSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>get_config</last-search>
+      <last-offset />
+      <last-pattern>get_config</last-pattern>
+      <last-replace>O</last-replace>
+      <last-substitute>O clockwise</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
